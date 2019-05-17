@@ -1,0 +1,8 @@
+Highest mark : 101
+Lowest mark : 0
+Average mark : 50.70230769230769
+Number of students with distinction : 298
+Number of students with first class : 124
+Number of students with second class : 114
+Number of students with third class : 243
+Number of students who failed : 521
