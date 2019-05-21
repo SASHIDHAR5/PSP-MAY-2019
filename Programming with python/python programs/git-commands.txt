@@ -1,0 +1,93 @@
+    1  git --help
+    2  p
+    3  pwd
+    4  ls
+    5  Desktp
+    6  Deskpot
+    7  de
+    8  Desktp
+    9  Desktop
+   10  pwd
+   11  ls
+   12  Desktop
+   13  cd Deskt
+   14  cd Desktop
+   15  cd Desktop
+   16  cd Desktop
+   17  pwd
+   18  ls
+   19  cd problem solving and programing
+   20  mkdir
+   21  ls
+   22  cd problem solving and programing
+   23  cd problemsolvingandprograming
+   24  mkdir problemsolvingandprogramming
+   25  cd
+   26  cd Desktop
+   27  l
+   28  ls
+   29  rm -rf problem
+   30  mv Pro ProblemSolvingAndProgramming
+   31  rm
+   32  ls
+   33  rmdf
+   34  rmdir problem\ solving\ and\ programing/
+   35  ls
+   36  cd problemsolvingandprogramming
+   37  pwd
+   38  mkdir git
+   39  cd git
+   40  git -
+   41  git config--list
+   42  git config --list
+   43  git cong
+   44  git cong
+   45  git config user.name
+   46  git config --global user.name "SASHIDHAR5"
+   47  git config user.name
+   48  git config --
+   49  git congi
+   50  git config user.email
+   51  git config --global user.email psashi8@gmail.com
+   52  git congif
+   53  git config user.email
+   54  touch file1.txt
+   55  ls
+   56  git init
+   57  git status
+   58  git add file1.txt
+   59  git status
+   60  git commit -m "first file commit"
+   61  git status
+   62  echo "data in line 1" > file1.txt
+   63  cat file1.txt
+   64  git status
+   65  git add file1.txt
+   66  git commit -m "file1 second commit"
+   67  git status
+   68  gi
+   69  git log
+   70  touch file{2..10}.txt
+   71  ls
+   72  touch file{11..100}.txt
+   73  ls
+   74  rm file{11..100}.txt
+   75  ls
+   76  git status
+   77  git add file{2..10}.txt
+   78  git 
+   79  git status
+   80  git reset HEAD file{2..10}.txt
+   81  git status
+   82  git add file{2..10}.txt
+   83  ls
+   84  git commit -m "added 9 new files'"
+   85  git status
+   86  git clone 
+   87  git clon
+   88  git clone 2~
+   89  git clne 2
+   90  git clone [
+   91  git log
+   92  history 100
+   93  history 100 > git-commands.txt
